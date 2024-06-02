@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "demo3_dcoument_template"
+  description: "demo3-dcoument template created by praveen for Testing purpose"
+  annotations:
+    github.com/project-slug: praveen-nagarro/demo3-delete-me
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "group:default/guests"

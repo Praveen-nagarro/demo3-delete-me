@@ -1,0 +1,8 @@
+site_name: "demo3_dcoument_template"
+site_description: "demo3-dcoument template created by praveen for Testing purpose"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
